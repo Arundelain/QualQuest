@@ -1,0 +1,8 @@
+Model Information:
+* title:	Sketchbot
+* source:	https://sketchfab.com/3d-models/sketchbot-59dc6515fb7646d0b0701cab86b7933f
+* author:	Tom Hodes (https://sketchfab.com/tomhodes)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

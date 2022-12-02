@@ -1,0 +1,317 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 7316,
+      "max": [
+        3.024416208267212,
+        1.3152079582214355,
+        3.4346227645874023
+      ],
+      "min": [
+        -2.5646798610687256,
+        -1.3152117729187012,
+        -2.3174479007720947
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 87792,
+      "componentType": 5126,
+      "count": 7316,
+      "max": [
+        1.0,
+        0.9999890327453613,
+        0.9999369382858276
+      ],
+      "min": [
+        -1.0,
+        -0.9999890327453613,
+        -0.9999810457229614
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 7316,
+      "max": [
+        0.9998196959495544,
+        1.0,
+        0.9965102076530457,
+        1.0
+      ],
+      "min": [
+        -0.9973205924034119,
+        -1.0,
+        -0.996925950050354,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 7316,
+      "max": [
+        0.9924463033676147,
+        0.9883442521095276
+      ],
+      "min": [
+        0.007553696632385254,
+        0.007553696632385254
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 58528,
+      "componentType": 5126,
+      "count": 7316,
+      "max": [
+        0.9924463033676147,
+        0.9883442521095276
+      ],
+      "min": [
+        0.007553696632385254,
+        0.007553696632385254
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 117056,
+      "componentType": 5126,
+      "count": 7316,
+      "max": [
+        0.9924463033676147,
+        0.9883442521095276
+      ],
+      "min": [
+        0.007553696632385254,
+        0.007553696632385254
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 38304,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Vanessa Araújo (https://sketchfab.com/vanessa3d)",
+      "license": "SKETCHFAB Standard (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/cartoon-lovebird-9404eca72d38474aafbdb509ebb8cec1",
+      "title": "Cartoon Lovebird"
+    },
+    "generator": "Sketchfab-13.33.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 153216,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 175584,
+      "byteOffset": 153216,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 175584,
+      "byteOffset": 328800,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 117056,
+      "byteOffset": 504384,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 621440,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Lovebird_baseColor.png"
+    },
+    {
+      "uri": "textures/Lovebird_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Lovebird_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Lovebird",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Lovebird_Lovebird_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5
+          },
+          "indices": 6,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Lovebird.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        2.4405663961689903e-06,
+        -6.198780231518944e-15,
+        -55.833648681640575,
+        0.0,
+        -55.83364868164052,
+        -2.4405663961689903e-06,
+        -2.4405663992683804e-06,
+        0.0,
+        -2.4405663992683804e-06,
+        55.833648681640575,
+        -1.1157804416734099e-13,
+        0.0,
+        0.0,
+        127.88977813720703,
+        0.0,
+        1.0
+      ],
+      "name": "Lovebird"
+    },
+    {
+      "mesh": 0,
+      "name": "Lovebird_Lovebird_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

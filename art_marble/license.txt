@@ -1,0 +1,8 @@
+Model Information:
+* title:	Art Marble
+* source:	https://sketchfab.com/3d-models/art-marble-f8081ea92e5e4b47ab40eeba5bb0b27a
+* author:	3Dee (https://sketchfab.com/mellydeeis)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

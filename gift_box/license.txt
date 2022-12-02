@@ -1,0 +1,8 @@
+Model Information:
+* title:	Gift Box
+* source:	https://sketchfab.com/3d-models/gift-box-82e64728cac64adf859f25452f7a436a
+* author:	bariacg (https://sketchfab.com/bariacg)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

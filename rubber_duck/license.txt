@@ -1,0 +1,8 @@
+Model Information:
+* title:	Rubber Duck
+* source:	https://sketchfab.com/3d-models/rubber-duck-3c0615273e9f4322bef8723f52bfb6b9
+* author:	ElOsitoAzul (https://sketchfab.com/ElOsitoAzul)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

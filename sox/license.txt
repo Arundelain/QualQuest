@@ -1,0 +1,8 @@
+Model Information:
+* title:	Sox
+* source:	https://sketchfab.com/3d-models/sox-157f9830027e43818b3865738a14b5d5
+* author:	Ramón Ruiz (https://sketchfab.com/ramon.ruiz)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

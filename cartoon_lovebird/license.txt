@@ -1,0 +1,8 @@
+Model Information:
+* title:	Cartoon Lovebird
+* source:	https://sketchfab.com/3d-models/cartoon-lovebird-9404eca72d38474aafbdb509ebb8cec1
+* author:	Vanessa Araújo (https://sketchfab.com/vanessa3d)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
