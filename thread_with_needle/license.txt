@@ -1,0 +1,8 @@
+Model Information:
+* title:	Thread with needle
+* source:	https://sketchfab.com/3d-models/thread-with-needle-56c30649f16142468bb805ee95bd9988
+* author:	Paubr (https://sketchfab.com/paubr)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

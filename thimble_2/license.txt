@@ -1,0 +1,8 @@
+Model Information:
+* title:	Thimble 2
+* source:	https://sketchfab.com/3d-models/thimble-2-0b3137caba3c41908a1c1564ac63204d
+* author:	FrancescoMilanese (https://sketchfab.com/FrancescoMilanese)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

@@ -1,0 +1,8 @@
+Model Information:
+* title:	Antique Victorian Clock
+* source:	https://sketchfab.com/3d-models/antique-victorian-clock-9e5eed5a6d954228b62460a1ef0df6a7
+* author:	simviz.net (https://sketchfab.com/simonscat)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

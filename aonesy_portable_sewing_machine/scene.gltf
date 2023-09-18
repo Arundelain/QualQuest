@@ -1,0 +1,632 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        148.154052734375,
+        94.8325424194336,
+        41.509857177734375
+      ],
+      "min": [
+        -77.93489837646484,
+        -122.35254669189453,
+        -56.572330474853516
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.996744692325592,
+        0.9916990995407104
+      ],
+      "min": [
+        0.08461882174015045,
+        0.03037261962890625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 329841,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 46729,
+      "max": [
+        135.5942840576172,
+        94.8325424194336,
+        40.53213882446289
+      ],
+      "min": [
+        -77.94268035888672,
+        -122.3525390625,
+        -56.61648178100586
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2133516,
+      "componentType": 5126,
+      "count": 46729,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 46729,
+      "max": [
+        0.999997079372406,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -0.9999951720237732,
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 46729,
+      "max": [
+        0.9940743446350098,
+        0.9936157464981079
+      ],
+      "min": [
+        0.0035653968807309866,
+        0.02863764762878418
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1319364,
+      "componentType": 5125,
+      "count": 242073,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2694264,
+      "componentType": 5126,
+      "count": 25154,
+      "max": [
+        105.32283020019531,
+        106.19945526123047,
+        27.615276336669922
+      ],
+      "min": [
+        -22.625940322875977,
+        -99.78022003173828,
+        -48.217559814453125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2996112,
+      "componentType": 5126,
+      "count": 25154,
+      "max": [
+        0.9999986290931702,
+        0.9999675750732422,
+        1.0
+      ],
+      "min": [
+        -0.9999940991401672,
+        -0.9999970197677612,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 898088,
+      "componentType": 5126,
+      "count": 25154,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2287656,
+      "componentType": 5125,
+      "count": 144960,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3297960,
+      "componentType": 5126,
+      "count": 769,
+      "max": [
+        -49.11427688598633,
+        -2.8092761039733887,
+        44.536128997802734
+      ],
+      "min": [
+        -90.99381256103516,
+        -21.42447280883789,
+        16.23693084716797
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3307188,
+      "componentType": 5126,
+      "count": 769,
+      "max": [
+        0.9991955161094666,
+        0.99806147813797,
+        0.9962839484214783
+      ],
+      "min": [
+        -0.9799092411994934,
+        -0.6709254384040833,
+        -0.9999979734420776
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1099320,
+      "componentType": 5126,
+      "count": 769,
+      "max": [
+        0.06132671609520912,
+        0.998033881187439
+      ],
+      "min": [
+        0.001953125,
+        0.9134769439697266
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2867496,
+      "componentType": 5125,
+      "count": 4368,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Chloe-Li-3D (https://sketchfab.com/Chloe-Li-3D)",
+      "license": "SKETCHFAB Editorial (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/aonesy-portable-sewing-machine-4a8691ff49b643a993f179f907c847f5",
+      "title": "Aonesy Portable Sewing Machine"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2884968,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1105472,
+      "byteOffset": 2884968,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3316416,
+      "byteOffset": 3990440,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1796176,
+      "byteOffset": 7306856,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 9103032,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Machine_baseColor.png"
+    },
+    {
+      "uri": "textures/Machine_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Machine_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Machine",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "metal",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1.0
+        ],
+        "roughnessFactor": 0.1656790697
+      }
+    },
+    {
+      "alphaMode": "BLEND",
+      "doubleSided": true,
+      "name": "glass",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1.0,
+          1.0,
+          1.0,
+          0.15354137973495552
+        ],
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Machine_Machine_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Machine_Machine_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "metal_metal_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TEXCOORD_0": 12
+          },
+          "indices": 13,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "glass_glass_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 15,
+            "POSITION": 14,
+            "TEXCOORD_0": 16
+          },
+          "indices": 17,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "e6fc6992ffb54d4fb84ab2d865f3dc4f.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        7,
+        9
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -42.80202102661133,
+        4.146914005279541,
+        5.131326675415039,
+        1.0
+      ],
+      "name": "Aonesy_Portable_Sewing_Machine"
+    },
+    {
+      "children": [
+        5,
+        6
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        13.106341361999512,
+        18.05428695678711,
+        2.91084361076355,
+        1.0
+      ],
+      "name": "Machine"
+    },
+    {
+      "mesh": 0,
+      "name": "Machine_Machine_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Machine_Machine_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        0.9510565162951539,
+        0.3090169943749466,
+        0.0,
+        0.0,
+        -0.3090169943749466,
+        0.9510565162951539,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        -13.106341361999512,
+        -18.05428695678711,
+        -2.91084361076355,
+        1.0
+      ],
+      "name": "metal"
+    },
+    {
+      "mesh": 2,
+      "name": "metal_metal_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        0.9510565162951539,
+        0.3090169943749466,
+        0.0,
+        0.0,
+        -0.3090169943749466,
+        0.9510565162951539,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        52.252647399902344,
+        -7.692690372467041,
+        -5.131326675415039,
+        1.0
+      ],
+      "name": "glass"
+    },
+    {
+      "mesh": 3,
+      "name": "glass_glass_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

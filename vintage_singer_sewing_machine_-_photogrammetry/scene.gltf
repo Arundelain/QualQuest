@@ -1,0 +1,276 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        13.725140571594238,
+        -0.10242942720651627,
+        12.943984985351563
+      ],
+      "min": [
+        -11.551458358764648,
+        -24.4923152923584,
+        -0.16348396241664886
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999997615814209,
+        0.9999983310699463,
+        0.9999992251396179
+      ],
+      "min": [
+        -1.0,
+        -0.9999986886978149,
+        -0.9999997019767761
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9996129870414734,
+        0.6158450245857239
+      ],
+      "min": [
+        0.0003659999929368496,
+        0.00036899998667649925
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 297009,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 1226,
+      "max": [
+        9.189176559448242,
+        -6.8447585105896,
+        11.403183937072754
+      ],
+      "min": [
+        -7.700713157653809,
+        -8.285819053649902,
+        0.7476598620414734
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1587480,
+      "componentType": 5126,
+      "count": 1226,
+      "max": [
+        0.9993598461151123,
+        0.9996435046195984,
+        0.9981312155723572
+      ],
+      "min": [
+        -0.9999772310256958,
+        -0.9990342259407043,
+        -0.9948855638504028
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 1226,
+      "max": [
+        0.9968289732933044,
+        0.5865989923477173
+      ],
+      "min": [
+        0.0003659999929368496,
+        0.000455000001238659
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1188036,
+      "componentType": 5125,
+      "count": 2937,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Rory Cousins (https://sketchfab.com/rorycousins)",
+      "license": "SKETCHFAB Editorial (https://sketchfab.com/licenses)",
+      "source": "https://sketchfab.com/3d-models/vintage-singer-sewing-machine-photogrammetry-16706b8cc9484005b30b1ee668c82259",
+      "title": "Vintage Singer sewing machine - Photogrammetry"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1199784,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 534064,
+      "byteOffset": 1199784,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1602192,
+      "byteOffset": 1733848,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3336040,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Singer_10.12.21_100K_16k_Tex_4mm_u0_v0_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/Singer_10.12.21_100K_16k_Tex_4mm_u0_v0_metallicRoughness.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Singer_10.12.21_100K_16k_Tex_4mm_u0_v0",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.3719000833073094,
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.0075784156268222935,
+        8.235538252547234e-05,
+        3.1433800458249596e-20,
+        0.0,
+        8.235538252547234e-05,
+        -0.0075784156268222935,
+        -3.836940822990005e-18,
+        0.0,
+        -1.3147232081931263e-20,
+        3.837040225661767e-18,
+        -0.007578863296657801,
+        0.0,
+        0.13568228483200073,
+        -5.876556396484379,
+        18.68759536743164,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3
+      ],
+      "name": "Singer_10.12.21_100K_16k_Tex_4mm.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    }
+  ]
+}

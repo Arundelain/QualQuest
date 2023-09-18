@@ -1,0 +1,8 @@
+Model Information:
+* title:	Female Mannequin Bust STOCKMAN
+* source:	https://sketchfab.com/3d-models/female-mannequin-bust-stockman-64125560ef05405385c37afbe5af64c9
+* author:	Frank Rennau (https://sketchfab.com/rennau)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

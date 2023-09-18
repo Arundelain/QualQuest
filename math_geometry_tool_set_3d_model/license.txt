@@ -1,0 +1,8 @@
+Model Information:
+* title:	Math Geometry Tool Set 3D Model
+* source:	https://sketchfab.com/3d-models/math-geometry-tool-set-3d-model-9a7f6958c2074da2870b8ab60070827d
+* author:	3DDisco (https://sketchfab.com/3DDisco)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
